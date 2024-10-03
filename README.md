@@ -1,16 +1,13 @@
-## Hi there 👋
+## ✎⋆.ೃ࿔\*:･ *About Me* ࿐ ࿔\*:･ﾟ
 
-<!--
-**AllieKatte/AllieKatte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi everyone!
 
-Here are some ideas to get you started:
+I'm Alexis (or Allie for short!) and I'm currently learning full stack web development through the wonderful curriculum at [The Odin Project](https://www.theodinproject.com)! My dream is to one day be able to create beautiful web applications as a ruby on rails developer! I hope you have as much fun looking through the projects I've worked on as I had making them!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Thank you so much! 🥰
+
+❤️ 🧡 💛 💚 🩵 💜 🩷 🤍
+
+Here are some of the technologies that I'm currently learning!
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,ruby,rails,nodejs,postgres,git,github,docker,linux,bash,vscode&perline=10" />
